@@ -62,6 +62,7 @@ rank_source:
 Source of the ranking listed.
 
 ### research_groups
+Details on individual labs/groups.
 
 group_id:
 Arbitrary ID assigned for uniqueness.
@@ -76,6 +77,7 @@ start_year:
 Year the principal investigator began their independent research career.
 
 ### institutions
+The companies, universities, or other institutions at which students acheive gainful employment.
 
 institution_id:
 Arbitrary ID number assigned for uniqueness.
