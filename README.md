@@ -4,7 +4,7 @@ This is a way to collect and store placement data for PhD students by institutio
 
 ## Entity Tables
 ### univ_info
-The univ_info table is adapted from the US Accredidation Files available here: http://ope.ed.gov/accreditation/GetDownLoadFile.aspx. The column names have been changed, and some unnecessary information was removed. The variables are as follows:
+The univ_info table is adapted from the US Accreditation Files available here: http://ope.ed.gov/accreditation/GetDownLoadFile.aspx. The column names have been changed, and some unnecessary information was removed. The variables are as follows:
 
 univ_id (unchanged from source):
 Database Specific Identification Number for Institution
