@@ -1,16 +1,16 @@
-institution_id,institution_name,industry
-1,Lockheed Martin Advanced Energy Storage,Energy
-2,New York City Teaching Fellows,Education
-3,American Journal Experts,Publishing
-4,University of Washington,Postdoc
-5,University of Rochester,TT Prof
-6,DuPont,Chemicals
-7,The Chemours Company,Chemicals
-8,The Aerospace Corporation,Aerospace
-9,Beghou Consulting,Consulting
-10,Chicago Public Schools,Education
-11,Sendgrid,Data Science
-12,"Finnegan, Henderson, Farabow, Garrett & Dunner, LLP",Law
-13,University of West Georgia,PUI
-14,Illumina,Biotechnology
-15,Sun Catalytix,Energy
+institution_id,institution_name,industry,size,year_founded
+1,Lockheed Martin Advanced Energy Storage,Energy,"126,000",2014
+2,New York City Teaching Fellows,Education,"9,000",2000
+3,American Journal Experts,Publishing,500,2004
+4,University of Washington,Postdoc,"22,000",1861
+5,University of Rochester,TT Prof,"23,000",1850
+6,DuPont,Chemicals,"52,000",1802
+7,The Chemours Company,Chemicals,"8,100",2015
+8,The Aerospace Corporation,Aerospace,"3,600",1960
+9,Beghou Consulting,Consulting,200,1993
+10,Chicago Public Schools,Education,"35,900",1837
+11,Sendgrid,Data Science,500,2009
+12,"Finnegan, Henderson, Farabow, Garrett & Dunner, LLP",Law,850,1965
+13,University of West Georgia,PUI,"5,000",1906
+14,Illumina,Biotechnology,"4,300",1998
+15,Sun Catalytix,Energy,50,2008
