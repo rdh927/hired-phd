@@ -1,0 +1,18 @@
+student_id,institution_id,start_date,end_date,inst_city,inst_state,inst_country
+1,1,Aug-14,present,Cambridge,MA,USA
+1,15,Oct-12,Aug-14,Cambridge,MA,USA
+2,2,null,null,New York,NY,USA
+3,3,Mar-13,present,Denver,CO,USA
+4,4,Aug-13,Aug-16,Seattle,WA,USA
+4,5,Aug-16,present,Rochester,NY,USA
+5,6,May-14,Jun-15,Wilmington,DE,USA
+5,7,Jul-15,present,Philadelphia,PA,USA
+6,8,Jun-14,present,El Segundo,CA,USA
+7,9,null,null,Evanston,IL,USA
+8,null,null,null,New York,NY,USA
+9,10,Oct-15,present,Chicago,IL,USA
+10,11,May-15,present,Denver,CO,USA
+11,12,Aug-15,present,Boston,MA,USA
+12,13,null,null,Carrollton,GA,USA
+13,9,null,null,Evanston,IL,USA
+14,14,Jun-16,present,San Diego,CA,USA
