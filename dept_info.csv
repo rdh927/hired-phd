@@ -1,0 +1,5 @@
+dept_id,dept_name,univ_id,ranking,rank_source
+1,Chemistry,1,4,http://www.shanghairanking.com/SubjectChemistry2014.html
+2,Applied Physics,1,null,null
+3,Materials Science and Engineering,1,2,http://grad-schools.usnews.rankingsandreviews.com/best-graduate-schools/top-engineering-schools/material-engineering-rankings
+4,Physics and Astrononomy,1,26,http://grad-schools.usnews.rankingsandreviews.com/best-graduate-schools/top-science-schools/northwestern-university-147767
