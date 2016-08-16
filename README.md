@@ -103,6 +103,10 @@ dept_id (FK)
 
 group_id (FK)
 
+join_date
+
+leave_date
+
 ### advisors
 #### Advisor-advisee relationships. Some grad students are jointly advised by two PIs.
 
